@@ -29,7 +29,11 @@ body{
 
 }
 
-
+.carouselimages{
+    width: 60%;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
 
 ul {
     display: flex;
