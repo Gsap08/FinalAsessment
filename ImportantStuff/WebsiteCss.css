@@ -35,8 +35,20 @@ body{
     padding-top: 35px;
     padding-bottom: 35px;
     border-radius: 300px;
-
 }
+
+.carousel-control-prev-icon{
+    background-color:black;
+    border: black;
+    border-radius: 10px
+}
+
+.carousel-control-next-icon{
+    background-color:black;
+    border:black;
+    border-radius: 10px
+}
+
 
 ul {
     display: flex;
