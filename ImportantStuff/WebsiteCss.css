@@ -128,4 +128,22 @@ div > div {
 }
 
 
+/* Webpage for staff */
 
+
+
+
+
+.mrfoong{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.mrjohn{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
