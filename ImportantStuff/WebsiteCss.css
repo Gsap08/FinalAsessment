@@ -132,7 +132,13 @@ div > div {
 
 
 
+.teachername{
+  text-align:center;  
+}
 
+.teachingsubject{
+  text-align:center;  
+}
 
 .mrfoong{
       display: block;
