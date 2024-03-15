@@ -131,6 +131,10 @@ div > div {
 /* Webpage for staff */
 
 
+.tablestaffgeographyone{
+    display:flex;
+    justify-content: right;    
+}
 
 .teachername{
   text-align:center;  
