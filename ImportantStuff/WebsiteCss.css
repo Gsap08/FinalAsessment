@@ -28,25 +28,6 @@ body{
 
 }
 
-.carouselimages{
-    width: 50%;
-    padding-top: 35px;
-    padding-bottom: 35px;
-    border-radius: 300px;
-}
-
-.carousel-control-prev-icon{
-    background-color:black;
-    border: black;
-    border-radius: 10px
-}
-
-.carousel-control-next-icon{
-    background-color:black;
-    border:black;
-    border-radius: 10px
-}
-
 
 ul {
     display: flex;
@@ -117,7 +98,7 @@ footer{
 
 .sportimages {
   display: grid;
-  gap: 1px;
+  gap: 20px;
   grid-template-columns: repeat(3, 1fr);
 }
 
@@ -127,9 +108,8 @@ footer{
 /* Webpage for staff */
 
 
-.tablestaffgeographyone{
-    display:flex;
-    justify-content: right;    
+.stafftableone, .stafftabletwo{
+    vertical-align: middle;
 }
 
 .teachername{
@@ -140,16 +120,15 @@ footer{
   text-align:center;  
 }
 
-.mrfoong{
-      display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+.teacherphoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
-.mrjohn{
-     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+nav a.currentpage {
+    border-color: black;
+    border:solid 1px;
+    background-color: #4c7cff;
 }
