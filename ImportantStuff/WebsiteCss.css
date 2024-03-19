@@ -96,6 +96,11 @@ footer{
         margin-top: 0px;
     }
 
+.sportgridimage{
+    width: 60%;
+    height: 60%;
+}
+
 .sportimages {
   display: grid;
   gap: 20px;
