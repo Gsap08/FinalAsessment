@@ -122,10 +122,23 @@ footer{
 
 /* Webpage for staff */
 
+/*  
+.tablestaff{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
-.stafftableone, .stafftabletwo{
-    display: table-cell;
-    vertical-align: middle;
+.tablestaff{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+*/
+
+.twotables{
+    column-count: 2;
 }
 
 .teachername{
