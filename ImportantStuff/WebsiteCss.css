@@ -68,10 +68,13 @@ li {
 
 div#carouselExampleAutoplaying{
     align-content:center;
-    margin:auto;
-    height:50%;
-    width:50%;
+    margin: 100;
+    height:auto;
+    width:auto;
+    border: solid #0054A2 4px;
 }
+
+
 
 
 .div3{
