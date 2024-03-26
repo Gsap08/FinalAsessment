@@ -28,6 +28,11 @@ body{
 
 }
 
+.textmain{
+    font-size: 20px;
+    text-align: center;
+}
+
 
 ul {
     display: flex;
@@ -68,7 +73,7 @@ li {
 
 div#carouselExampleAutoplaying{
     align-content:center;
-    margin: 100;
+    margin: 10;
     height:auto;
     width:auto;
     border: solid #0054A2 4px;
