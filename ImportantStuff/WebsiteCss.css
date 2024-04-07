@@ -149,13 +149,14 @@ font-size: 33px;
 
 /* Webpage for staff */
 
-.dte{
-    display:flex;
-    flex-direction: row;
+.staff{
+    display: flex;
     justify-content: space-evenly;
+    flex-direction: row;
+}
 
-    font-size: 100px;
-    
+.staff-inner{
+    text-align: center;
 }
 
 h1{
@@ -163,19 +164,10 @@ h1{
     justify-content: center;    
 }
 
-.staff{
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
 
 
 
 
-
-
-
-;
-}
 
 
 
