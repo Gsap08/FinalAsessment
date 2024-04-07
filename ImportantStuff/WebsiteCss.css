@@ -101,7 +101,7 @@ footer{
     
 /*  Website For Sports     */
 
-/* .div3{
+ .div3{
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -110,20 +110,37 @@ footer{
         margin-top: 0px;
     }
 
+.sport-images-grid {
+  display: grid;
+  text-align: center;
+  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+}
 
- 
+.sport-images-grid-item {
+    padding: 10px;
+}
+
+.sport-text{
+font-size: 33px;
+}
+
 .sportgridimage{
     width: 90%;
     height: 90%;
     border: solid navy 5px;
 }
 
-.sportimages {
-  display: grid;
-  gap: 20px;
-  grid-template-columns: repeat(3, 1fr);
-} */
+/*.allsport{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
 
+.sportgridimage{
+    width: 60%;
+    height: 60%;
+}*/
 
 
 
